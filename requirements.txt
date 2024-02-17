@@ -4,4 +4,6 @@ numpy
 scikit-learn
 pymongo
 pyyaml
+matplotlib
+seaborn
 -e .
